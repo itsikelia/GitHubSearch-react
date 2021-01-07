@@ -1,0 +1,10 @@
+.searchBar {
+  margin-left: 40%;
+  margin-top: 25px;
+}
+
+#searchButton {
+  color: purple;
+  margin: 15px;
+  font-size: 12px;
+}

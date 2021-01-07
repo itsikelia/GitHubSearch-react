@@ -1,0 +1,32 @@
+img {
+  border-radius: 50%;
+  max-width: 40px;
+  max-height: 40px;
+  margin-right: 10px;
+  float: left;
+}
+
+.user {
+  margin-top: 50px;
+  width: 40%;
+  margin-left: 30%;
+}
+
+.user:last-of-type {
+  border-bottom: none;
+}
+
+.blog {
+  color: #cccccc;
+  float: right;
+}
+
+.bio {
+  color: #cccccc;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  border-bottom: 1px solid #ccc;
+  font-size: small;
+  padding-bottom: 15px;
+}
