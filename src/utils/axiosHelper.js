@@ -1,3 +1,3 @@
 export const axiosConfig = {
-  headers: { Authorization: `Bearer 8f107f34d32bb24b0bcaffd047d2c70134e04adf` },
+  headers: { Authorization: `Bearer d7417eaf24396115d1705260c64cb4cfa4287fdb` },
 };
